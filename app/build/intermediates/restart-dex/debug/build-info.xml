@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="55792052999141"
+    token="8494148673277100643"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="76" />
+    <task
+        name="instant-run-dex"
+        duration="360" />
+    <task
+        name="instant-run-transform"
+        duration="18" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\Eric\AndroidStudioProjects\Lab3a_IntentsLab\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="54865563068416"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="C:\Users\Eric\AndroidStudioProjects\Lab3a_IntentsLab\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="55657648970065"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Eric\AndroidStudioProjects\Lab3a_IntentsLab\app\build\intermediates\builds\debug\55657648970065\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="55724984191756"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Eric\AndroidStudioProjects\Lab3a_IntentsLab\app\build\intermediates\builds\debug\55724984191756\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="55792052999141"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Eric\AndroidStudioProjects\Lab3a_IntentsLab\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
